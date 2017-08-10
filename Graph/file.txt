@@ -1,0 +1,4 @@
+Nodes: [A, B, R, D, V, N, O]
+Edges: [(A, B), (B, A), (V, N), (O, V), (N, R), (R, V), (A, D)]
+Number of nodes: 7
+Number of edges: 7
